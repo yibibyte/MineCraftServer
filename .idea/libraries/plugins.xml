@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="plugins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/spark-1.10.59-bukkit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/Vault.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/PluginTest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
